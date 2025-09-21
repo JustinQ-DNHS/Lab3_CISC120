@@ -1,7 +1,10 @@
 import java.util.Scanner;
 /**
-* Program Description
-* 1) Fill in steps
+* Sorting Description
+* 1) Takes in three integers
+* 2) Determines the lowest integer using a series of if statements
+* 3) Using a nested if statement determines second lowest integer
+* 4) Returns 3 integers from lowest to greatest
 *
 * @author Justin Quach
 * @version v1.0

@@ -1,7 +1,10 @@
 import java.util.Scanner;
 /**
-* ProbChall_4 asks the user to input...
-* 1) List the steps
+* TestScoresAndGrades asks the user to input...
+* 1) Input 3 exam scores
+* 2) Finds the average
+* 3) Determines grade depending on score avg
+* 4) Returns final average score and the grade you would receive
 *
 * @author Justin Quach
 * @version v1.0
