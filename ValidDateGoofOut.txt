@@ -1,0 +1,19 @@
+Enter a date (mm/dd/yyyy): 2/29/2000
+2/29/2000 is a valid date
+Enter a date (mm/dd/yyyy): 2/29/1900
+2/29/1900 is not a valid date
+Enter a date (mm/dd/yyyy): 2/29/2020
+2/29/2020 is a valid date
+Enter a date (mm/dd/yyyy): 4/31/2021
+Day is not valid
+4/31/2021 is not a valid date
+Enter a date (mm/dd/yyyy): 4/15/2021
+4/15/2021 is a valid date
+Enter a date (mm/dd/yyyy): 7/25/2021
+7/25/2021 is a valid date
+Enter a date (mm/dd/yyyy): 5/32/2013
+Day is not valid
+5/32/2013 is not a valid date
+Enter a date (mm/dd/yyyy): 13/13/2013
+Month is not valid
+13/13/2013 is not a valid date

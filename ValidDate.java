@@ -1,7 +1,11 @@
 import java.util.Scanner;
 /**
 * Program Description
-* 1) Fill in steps
+* 1) Intakes date
+* 2) Checks if days are valid
+* 3) Checks if months are valid
+* 4) Checks if day is valid, considering leap year
+* 5) Returns whether or not date is valid
 *
 * @author Name, optional email
 * @version v1.0
