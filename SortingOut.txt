@@ -1,0 +1,15 @@
+Provide 3 numbers:
+3
+2
+1
+The inputs sorted smallest to largest are: 1, 2, 3
+Provide 3 numbers:
+2
+3
+1
+The inputs sorted smallest to largest are: 1, 2, 3
+Provide 3 numbers:
+1
+3
+2
+The inputs sorted smallest to largest are: 1, 2, 2

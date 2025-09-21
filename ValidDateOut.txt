@@ -1,0 +1,20 @@
+Enter a date (mm/dd/yyyy): 2/29/2000
+2/29/2000 is a valid date
+Enter a date (mm/dd/yyyy): 2/29/1900
+Cannot have more than 28 days for this month
+2/29/1900 is not a valid date
+Enter a date (mm/dd/yyyy): 2/29/2020
+2/29/2020 is a valid date
+Enter a date (mm/dd/yyyy): 4/31/2021
+Days can not be greater than 30 for this month
+4/31/2021 is not a valid date
+Enter a date (mm/dd/yyyy): 4/15/2021
+4/15/2021 is a valid date
+Enter a date (mm/dd/yyyy): 7/25/2021
+7/25/2021 is a valid date
+Enter a date (mm/dd/yyyy): 5/32/2013
+Days can not be greater than 31
+5/32/2013 is not a valid date
+Enter a date (mm/dd/yyyy): 13/13/2013
+Month must be between 1 and 12
+13/13/2013 is not a valid date
